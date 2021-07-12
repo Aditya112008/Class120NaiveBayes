@@ -1,0 +1,27 @@
+Naive Bayes is another algorithm which assumes that every feature in a dataset is independent 
+and has its own contribution to the outcome
+
+We already studied about the logistic regression algorithm where multiple features predict the outcome 
+
+people get confused which one to use 
+
+naive Bayes - is a supervised machine learning algorithm based on the bayes probablity theorem
+naive bayes assumes that there is no correaltion between the features in a dataset used to train the model 
+
+naive implies that every pair of features in the dataset is independent of each other 
+
+Example : How can you classify if the given vegetable is tomato ?
+          If it's round, red in colour 
+          with naive bayes each of these features(shape, size, color) contributes independently
+          to the probablity that the vegetable is tomato 
+
+          also it assumes that there is no possible correlation bertween the shape, size and color 
+
+Advantages of Naive Bayes : Over-Simplified assumptions 
+It works very well in many real world complex problems 
+it requires relatively small number of training data samples to perform the classification compared to other algorithms
+(Decision tree , Logistic Regression)
+
+Bayes Theorem or the bayes law describes the probablity of an event based on prior knowledge of 
+conditions that might be related to the event
+
